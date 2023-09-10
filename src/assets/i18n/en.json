@@ -1,0 +1,23 @@
+{
+    "navbar": {
+        "title": "Navigation bar",
+        "navigation": {
+            "home": "Main page",
+            "link": "Link",
+            "dropdown": "Dropdown",
+            "action": "Action",
+            "anotherAction": "Another action",
+            "somethingElse": "Something else here",
+            "disabled": "Disabled",
+            "search-bar": {
+                "placeholder": "Search"
+            },
+            "buttons": {
+                "btn-search": "Search"
+            }
+        }
+    },
+    "main": {
+        "title": "The main page works!"
+    }
+}

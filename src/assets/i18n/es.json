@@ -1,0 +1,23 @@
+{
+    "navbar": {
+        "title": "Barra de navegación",
+        "navigation": {
+            "home": "Página de inicio",
+            "link": "Conexión",
+            "dropdown": "Menu desplegable",
+            "action": "Acción",
+            "anotherAction": "Otra acción",
+            "somethingElse": "Algo más aqui",
+            "disabled": "Desactivado",
+            "search-bar": {
+                "placeholder": "Buscar"
+            },
+            "buttons": {
+                "btn-search": "Buscar"
+            }
+        }
+    },
+    "main": {
+        "title": "¡La página principal funciona!"
+    }
+}
